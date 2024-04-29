@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+		   <head>
+		   <meta charset="utf-8">
+		   <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+		   <title>Protect your CRA accounts – Scams and fraud - CRA – Canada.ca</title>
+		   <meta content="width=device-width,initial-scale=1" name="viewport">
+		   <meta name=”robots” content=”noindex”>
+		   <!-- Meta data -->
+		   <!-- Meta data-->
+		   <!-- Load closure template scripts -->
+		   		   <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_39/cdts/compiled/soyutils.js"></script>
+		   <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_39/cdts/compiled/wet-en.js"></script>
+		   <link href="https://test.canada.ca/covid-19-guidance/proto/css/alpha-beta-banner.css" rel="stylesheet">
+		   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+		   <!-- Write closure template -->
+		   <script type="text/javascript">
+         document.write(wet.builder.refTop({
+         }));
+      </script>
+		   <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css"/>
+   <link rel="stylesheet" href="css/stacked-header.css"/>
+			   <link rel="stylesheet" href="css/provisional-topic.css"/>
+<link href="https://wet-boew.github.io/GCWeb/m%C3%A9li-m%C3%A9lo/2021-05-conjunction/and-or.css" rel="stylesheet">
+			   <link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2023-10-mount-revelstoke.css"/>
+		   </head>
+		   <body vocab="http://schema.org/" typeof="WebPage" class="cnt-wdth-lmtd">
+<div id="def-top"> </div>
+<!-- Write closure template --> 
+<script type="text/javascript">
+         var defTop = document.getElementById("def-top");
+         defTop.outerHTML = wet.builder.top({
+           lngLinks: [{
+         
+             lang: "fr",
+             href: "#",
+             text: "Français"
+           }],
+           breadcrumbs: [{
+             title: "Canada.ca",
+             href: "https://www.canada.ca/en.html"
+           }, {
+             title: "Canada Revenue Agency",
+             href: "cra.html"
+                       	}, {
+             title: "Corporation income tax",
+             href: "scams.html"
+           }],
+           search: true,
+           siteMenu: true,
+           showPreContent: true
+         });
+      </script>
+<main role="main" property="mainContentOfPage" class="container">
+             <p class="lead mrgn-tp-md mrgn-bttm-0 text-muted" aria-hidden="true">EIFEL</p>
+		<h1 class="gc-thickline mrgn-tp-0" id="wb-cont">Excessive interest and financing expenses limitation rules </span></h1>
+   
+  <p>The excessive interest and financing expenses limitation (EIFEL) rules limit the deductibility of net interest and financing expenses by certain corporations and trusts.</p>
+            <p>The EIFEL rules received royal assent on DATE and apply to tax years beginning after September 30, 2023.</p>
+	<div class="clearfix"></div>
+  <h2 class="h3 mrgn-tp-md">On this page</h2>
+    <ul>
+        <li><a href="#h1">Who the rules apply to</a></li>
+        <li><a href="#h2">Objective of the rules</a></li>
+              <li><a href="#h3">How to report</a></li>
+         <li><a href="#h4">How to make an election</a></li>
+                <li><a href="#related-info">Related information</a></li>
+    </ul>
+
+            <h2>Who the rules apply to</h2>
+            <p>The rules apply to corporations and trusts with <a href="link to ITA">interest and financing expenses</a> (IFE) or <a href="link to ITA">interest and financing revenues</a> (IFR) unless they are an excluded entity.</p>
+            <p>An excluded entity is defined in subsection 18.2(1) and generally includes:</p>
+            <ul>
+                <li>a Canadian-controlled private corporation that, together with all associated corporations, has taxable capital employed in Canada of less then $50 million</li>
+                <li>groups of corporations and trusts whose Canadian members have total net IFE that is not more than $1 million</li>
+                <li>certain standalone Canadian-resident corporations and trusts, and groups consisting only of Canadian-resident corporations and trusts, which carry on all or most of their businesses, undertaking and activities within Canada and have limited ties to non-residents</li>
+            </ul>
+            <p><strong>The rules indirectly apply to:</strong></p>
+            <ul>
+                <li>partnerships with a corporation or trust as a member that have IFE or IFR</li>
+                <li>controlled foreign affiliates (CFA) that have <a href="link to ITA">relevant affiliate IFE</a> or <a href="link to ITA">relevant affiliate IFR</a> if:</li>
+                <ul>
+                    <li>they are a CFA of a taxpayer subject to the EIFEL rules</li>
+                    <li>they are a CFA of a partnership with a member subject to the EIFEL rules or a member that is a CFA of a taxpayer subject to the EIFEL rules</li>
+                </ul>
+            </ul>
+        </section>
+        <section id="objective">
+            <h2>Objective of the rules</h2>
+            <p>The objective of the EIFEL rules is to address base erosion and profit shifting (BEPS) concerns. These result from taxpayers deducting excessive interest and financing expenses, which they incurred to produce exempt or deferred income. This is a particular concern in the context of multinational enterprises and cross-border investments. These concerns were identified by the Organisation for Economic Co-operation and Development (OECD)/G20 in its BEPS Action 4 report.</p>
+            <p>The strengthening of the rules on interest deductibility is expected to bring Canada in line with other foreign jurisdictions, including all of our G7 peers to make sure that taxpayers pay their fair share of taxes.</p>
+        </section>
+		<h3>EIFEL rules and existing rules and income tax provisions</h3>
+		<p>New sections 18.2 and 18.21 of the Income Tax Act, together with new paragraph 12(1)(l.2), are the core EIFEL rules. </p>
+		<p>The EIFEL rules integrate with current rules and existing income tax provisions, such as the thin capitalization rules.</p>
+
+		<h3>Cap on net interest and financing expenses</h3>
+        <p>The EIFEL rules put a cap on net IFE (IFE minus IFR).</p>
+		<div class="cnjnctn-type-or cnjnctn-sm">
+<div class="cnjnctn-col">
+<h4 class="mrgn-tp-sm text-muted"><span class="wb-inv">: Option 1 of X</span></h4>
+<p>The cap on net IFE is equal to a fixed ratio of 30% (40% in the first year) of adjusted taxable <a href="link to ITA">income</a>.</p>
+</div>
+<div class="cnjnctn-col">
+<h4 class="mrgn-tp-sm text-muted"><span class="wb-inv">: Option 2 of X</span></h4>
+<p>If an election is filed, the cap on net IFE is equal to an allocated group ratio <a href="link to ITA">amount</a> that is determined using audited consolidated financial statements.</p>
+</div></div>
+        <section id="reporting">
+            <h2>How to report</h2>
+            <p>You must report information related to the EIFEL rules in your corporation income tax return.</p>
+            <h3>EIFEL forms</h3>
+            <p>The CRA is currently preparing forms that will allow corporations, trusts and partnerships to meet this reporting requirement.</p>
+            <p>The new EIFEL forms are expected to be available during summer 2024. Check this page on a regular basis for updates on when the form will be available.</p>
+            <h3>Reporting before EIFEL forms are available</h3>
+            <p>If you need to file a tax return for a taxation year subject to the EIFEL rules before the forms are available, report denied interest and financing expenses on:</p>
+            <ul>
+                <li>line 227 of SCH 1 of the T2 return if you are a corporation</li>
+                <li>a separate line in “Other income” of Step 2 of the T3 return if you are a trust</li>
+            </ul>
+            <h3>Keeping records</h3>
+            <p>Remember to keep all documents to support your calculation of the denied interest and financing expenses. For additional information on your responsibilities and the requirements associated with keeping records, go to <a href="#">Keeping records</a>.</p>
+        </section>
+        <section id="election">
+            <h2>How to make an election</h2>
+            <h3>Election provisions</h3>
+		
+<dl class="dl-horizontal">
+<dt>Payment of interest of lease financing amount</dt>
+<dd>
+<ul class="fa-ul">
+<li>If a payment of interest or lease financing amount is made between two qualifying members of a group, the members may be able to jointly elect to exclude the payment from IFE and IFR amounts. (Refer to: subsection 18.2(1), definition of “excluded interest”)
+	  </li>
+</dd>
+<dt>Excess capacity of interest and financing expenses (IFE)</dt>
+<dd>
+<ul class="fa-ul">
+<li>If you deduct less IFE than the maximum allowed you may have excess capacity at the end of a taxation year. You can, in some circumstances, transfer the cumulative unused excess capacity (CUEC) to another group member by filing a joint election. That member may then be able to deduct additional IFE to the extent of the received capacity. (Refer to: subsection 18.2(4))</li>
+</dd>
+<dt>Non-capital loss</dt>
+<dd>
+<ul class="fa-ul">
+<li>If you are deducting a non-capital loss from a taxation year ending before February 4, 2022, you can elect to treat it as a ”specified pre-regime loss” if you no longer have documentation to support the IFE that is part of the loss, or if it is otherwise beneficial to you. (Refer to: subsection 18.2(1), definition of “specified pre-regime loss”)</li>
+</dd>
+<dt>Group ratio rules</dt>
+<dd>
+<ul class="fa-ul">
+<li>You may be able to elect to use the group ratio rules. These rules use amounts reported on audited consolidated financial statements and may allow a greater IFE deduction. (subsection 18.21(2)). In the first year you elect to use the group ratio rules, you may also elect to exclude “fair value amounts” from your calculations. (Refer to: subsection 18.21(4))</li>
+</dd><dt>Foreign property</dt>
+<dd>
+<ul class="fa-ul">
+<li>If you have a foreign property accrual loss (FAPL), you can elect to forgo this loss in order to avoid having to include expenses that gave rise to the loss included in your IFE. (Refer to: clause 95(2)(f.11)(ii)E)</li>
+</dd>
+<dt>Transitional rules</dt>
+<dd>
+<ul class="fa-ul">
+<li>You may be able to elect to use the transitional rules. These rules allow taxpayers to elect to determine their excess capacity in accordance with special rules and carry forward their excess capacity for the 3 years just before the first year the EIFEL rules apply. They do this by including it in calculating their CUEC in the first 3 years that the EIFEL rules apply. (Refer to: transitional rules for section 18.2)</li>
+</dd>
+<dl class="dl-horizontal">
+<dt></dt>
+<div>
+</section>
+            <h3>Election forms</h3>
+            <p>The forms for these elections are expected to be published for summer 2024.</p>
+            <p>If you need to file an election before the forms are published, you may send a letter with the prescribed information, signed by all taxpayers or partnerships who are party to the election. For instructions on how to send the letter, go to <a href="#">Filing a special election or return</a>.</p>
+            <h3>Information return requirement waived</h3>
+            <p>Normally, an information return must be filed within 6 months of the end of the calendar year if a taxpayer has received capacity to deduct IFE in a joint election made under subsection 18.2(4).</p>
+            <p>However, under the CRA administrative policy, the requirement to file this information return is currently being waived.</p>
+        </section>
+        <section id="related-info">
+            <h2>Related information</h2>
+            <ul>
+                <li><a href="link to ITA">EIFEL legislation</a></li>
+                <li><a href="link to ITA">Explanatory notes to EIFEL legislation</a></li>
+                <li><a href="#">Avoiding penalties</a></li>
+            </ul>
+        </section>
+    </article>
+</body>
+</html>
+
