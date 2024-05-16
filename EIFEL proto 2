@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en" dir="ltr">
+		   <head>
+		   <meta charset="utf-8">
+		   <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW) wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+		   <title>Protect your CRA accounts – Scams and fraud - CRA – Canada.ca</title>
+		   <meta content="width=device-width,initial-scale=1" name="viewport">
+		   <meta name=”robots” content=”noindex”>
+		   <!-- Meta data -->
+		   <!-- Meta data-->
+		   <!-- Load closure template scripts -->
+		   		   <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_39/cdts/compiled/soyutils.js"></script>
+		   <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_39/cdts/compiled/wet-en.js"></script>
+		   <link href="https://test.canada.ca/covid-19-guidance/proto/css/alpha-beta-banner.css" rel="stylesheet">
+		   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous" />
+		   <!-- Write closure template -->
+		   <script type="text/javascript">
+         document.write(wet.builder.refTop({
+         }));
+      </script>
+		   <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css"/>
+   <link rel="stylesheet" href="css/stacked-header.css"/>
+			   <link rel="stylesheet" href="css/provisional-topic.css"/>
+<link href="https://wet-boew.github.io/GCWeb/m%C3%A9li-m%C3%A9lo/2021-05-conjunction/and-or.css" rel="stylesheet">
+			   <link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/méli-mélo/2023-10-mount-revelstoke.css"/>
+		   </head>
+		   <body vocab="http://schema.org/" typeof="WebPage" class="cnt-wdth-lmtd">
+<div id="def-top"> </div>
+<!-- Write closure template --> 
+<script type="text/javascript">
+         var defTop = document.getElementById("def-top");
+         defTop.outerHTML = wet.builder.top({
+           lngLinks: [{
+         
+             lang: "fr",
+             href: "#",
+             text: "Français"
+           }],
+           breadcrumbs: [{
+             title: "Canada.ca",
+             href: "https://www.canada.ca/en.html"
+           }, {
+             title: "Canada Revenue Agency",
+             href: "cra.html"
+                       	}, {
+             title: "Corporation income tax",
+             href: "scams.html"
+           }],
+           search: true,
+           siteMenu: true,
+           showPreContent: true
+         });
+      </script>
+<main role="main" property="mainContentOfPage" class="container">
+             <p class="lead mrgn-tp-md mrgn-bttm-0 text-muted" aria-hidden="true">EIFEL</p>
+		<h1 class="gc-thickline mrgn-tp-0" id="wb-cont">Excessive interest and financing expenses limitation rules </span></h1>
+
+    <p>The excessive interest and financing expenses limitation rules limit the deductibility of net interest and financing expenses by certain corporations and trusts.</p>
+    <p>The rules will address concerns on base erosion and profit shifting (BEPS) and bring Canada in line with other foreign jurisdictions to make sure that taxpayers pay their fair share of taxes.</p>
+    <p>The rules apply to taxation years beginning after September 30, 2023.</p>
+
+    <h2>Source of the rules</h2>
+    <p>The bill containing the rules received royal assent on DATE.</p>
+    <p>The rules are contained in sections 18.2 and 18.21 of the Income Tax Act and are based on the Organisation for Economic Co-operation and Development’s BEPS Action 4 report.</p>
+
+    <h3>On this page</h3>
+    <ul>
+        <li><a href="#rules">What are the rules</a></li>
+        <li><a href="#affect">Who the rules affect</a></li>
+        <li><a href="#report">How to report</a></li>
+        <li><a href="#election">How to make an election</a></li>
+        <li><a href="#related">Related information</a></li>
+    </ul>
+
+    <h2 id="rules">What are the rules</h2>
+    <p>The rules integrate with current rules and existing income tax provisions, such as the thin capitalization rules.</p>
+    <p>The rules put a cap on net IFE (IFE minus IFR).</p>
+    <p>The cap on net IFE is equal to a fixed ratio of 30% (40% in the first year) of adjusted taxable income.</p>
+    <p>If an election is filed, the cap on net IFE is equal to an allocated group ratio amount that is determined using audited consolidated financial statements.</p>
+
+    <h2 id="affect">Who the rules affect</h2>
+    <p>The rules affect corporations and trusts with interest and financing expenses (IFE) or interest and financing revenues (IFR) unless they are an excluded entity.</p>
+    <p>An excluded entity is defined in subsection 18.2(1) and generally includes:</p>
+    <ul>
+        <li>a Canadian-controlled private corporation that, together with all associated corporations, has taxable capital employed in Canada of less than $50 million</li>
+        <li>groups of corporations and trusts whose Canadian members have total net IFE that is not more than $1 million</li>
+        <li>certain standalone Canadian-resident corporations and trusts, and groups consisting only of Canadian-resident corporations and trusts, which carry on all or most of their businesses, undertakings, and activities within Canada and have limited ties to non-residents</li>
+    </ul>
+    <p>The rules indirectly affect:</p>
+    <ul>
+        <li>partnerships with a corporation or trust as a member that have IFE or IFR</li>
+        <li>controlled foreign affiliates (CFA) that have relevant affiliate IFE or relevant affiliate IFR if:</li>
+        <ul>
+            <li>they are a CFA of a taxpayer subject to the rules</li>
+            <li>they are a CFA of a partnership with a member subject to the rules or a member that is a CFA of a taxpayer subject to the rules</li>
+        </ul>
+    </ul>
+
+    <h2 id="report">How to report</h2>
+    <p>You must report information related to the rules in your corporation income tax return.</p>
+
+    <h3>Forms</h3>
+    <p>The CRA is currently preparing forms that will allow corporations, trusts, and partnerships to meet this reporting requirement. The new forms are expected to be available during summer 2024. Check this page on a regular basis for updates on when the form will be available.</p>
+
+    <h3>Reporting before forms are available</h3>
+    <p>If you need to file a tax return for a taxation year subject to the rules before the forms are available, report denied interest and financing expenses on:</p>
+    <ul>
+        <li>line 227 of SCH 1 of the T2 return if you are a corporation</li>
+        <li>a separate line in “Other income” of Step 2 of the T3 return if you are a trust</li>
+    </ul>
+
+    <h3>Keeping records</h3>
+    <p>Remember to keep all documents to support your calculation of the denied interest and financing expenses. For additional information on your responsibilities and the requirements associated with keeping records, go to Keeping records.</p>
+
+    <h2 id="election">How to make an election</h2>
+
+    <h3>Election forms</h3>
+    <p>The CRA is currently preparing forms that will allow corporations, trusts, and partnerships to meet this reporting requirement. The forms for these elections are expected to be available during summer 2024.</p>
+
+    <h3>Reporting before forms are available</h3>
+    <p>If you need to file an election before the forms are published, you may send a letter with the prescribed information, signed by all taxpayers or partnerships who are party to the election. For instructions on how to send the letter, go to Filing a special election or return.</p>
+
+    <h3>Election provisions</h3>
+    <p>The rules contain several new election provisions that give you the opportunity to decide on an alternative tax treatment:</p>
+    <ul>
+        <li><strong>Payment of interest or lease financing amount:</strong> If a payment of interest or lease financing amount is made between two qualifying members of a group, the members may be able to jointly elect to exclude the payment from IFE and IFR amounts.</li>
+        <li><strong>Excess capacity of interest and financing expenses (IFE):</strong> If you deduct less IFE than the maximum allowed, you may have excess capacity at the end of a taxation year. You can, in some circumstances, transfer the cumulative unused excess capacity (CUEC) to another group member by filing a joint election. That member may then be able to deduct additional IFE to the extent of the received capacity.</li>
+        <li><strong>Non-capital loss:</strong> If you are deducting a non-capital loss from a taxation year ending before February 4, 2022, you can elect to treat it as a ”specified pre-regime loss” if you no longer have documentation to support the IFE that is part of the loss, or if it is otherwise beneficial to you.</li>
+        <li><strong>Group ratio rules:</strong> You may be able to elect to use the group ratio rules. These rules use amounts reported on audited consolidated financial statements and may allow a greater IFE deduction. In the first year you elect to use the group ratio rules, you may also elect to exclude “fair value amounts” from your calculations.</li>
+        <li><strong>Foreign property:</strong> If you have a foreign property accrual loss (FAPL), you can elect to forgo this loss in order to avoid having to include expenses that gave rise to the loss included in your IFE.</li>
+        <li><strong>Transitional rules:</strong> You may be able to elect to use the transitional rules. These rules allow taxpayers to elect to determine their excess capacity in accordance with special rules and carry forward their excess capacity for the 3 years just before the first year the EIFEL rules apply. They do this by including it in calculating their CUEC in the first 3 years that the EIFEL rules apply.</li>
+    </ul>
+
+    <h3>Information return requirement waived</h3>
+    <p>Generally, an information return must be filed within 6 months of the end of the calendar year if a taxpayer has received capacity to deduct IFE in a joint election made under subsection 18.2(4).</p>
+    <p>However, under the CRA administrative policy, the requirement to file this information return is currently being waived.</p>
+
+    <h2 id="related">Related information</h2>
+    <ul>
+        <li><a href="#rules">EIFEL legislation</a></li>
+        <li><a href="#rules">Explanatory notes to EIFEL legislation</a></li>
+        <li><a href="#rules">Avoiding penalties</a></li>
+    </ul>
+</body>
+</html>
