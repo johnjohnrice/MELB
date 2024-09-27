@@ -1,1 +1,36 @@
 
+<main>
+	  <h1 property="name" id="wb-cont" class="gc-thickline">Managing Taxable Canadian Property Transactions</h1>
+
+	  <p>Overview of the importance of understanding and managing obligations for disposing of or acquiring TCP, targeted both at non-residents and Canadians.</p>
+
+		<!-- Navigation menu -->
+		<nav class="gc-subway provisional">
+			<h2>Sections</h2>
+			<dl>
+				<dt><a href="#">What property dispositions do you have to report </a></dt>
+				<dd>Short description</dd>
+				<dt><a href="#">Obtain Necessary Tax Identification</a></dt>
+				<dd>Short description</dd>
+				<dt><a href="#">Apply for a certificate of compliance</a></dt>
+				<dd>Short description</dd>
+				<dt><a href="#">Notify the CRA</a></dt>
+				<dd>Short description</dd>
+				<dt><a href="#">Submit Payments and Handle Penalties</a></dt>
+				<dd>Short description</dd>
+				<dt><a href="#">File the Tax Return</a></dt>
+				<dd>Short description</dd>
+        <dt><a href="#">Manage Online Submissions</a></dt>
+				<dd>Short description</dd>
+			</dl>
+		</nav>
+
+		<!-- Supporting links -->
+		<aside>
+		   <h2 class="h3">Related information</h2>
+		   <ul>
+			 <li><a href="#">[link]</a></li>
+			 <li><a href="#">[link]</a></li>
+		   </ul>
+		</aside>
+	</main>
